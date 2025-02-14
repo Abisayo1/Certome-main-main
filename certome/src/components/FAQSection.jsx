@@ -3,7 +3,7 @@ import Accordion from './Accordion';
 
 const FAQSection = () => {
   return (
-    <div className=" flex flex-col max-w-[1200px] w-[90%] mx-auto justify-center">
+    <div className=" flex flex-col max-w-[1200px] mt-16 w-[90%] mx-auto justify-center">
       {/* Banner Section */}
       <div className=" mx-auto relative   mt-10 ">
         <img src="./Content.png" className=' rounded-xl w-full mx-auto max-h-[500px]' alt="" />
